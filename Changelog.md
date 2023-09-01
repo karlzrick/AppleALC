@@ -1,7 +1,7 @@
 AppleALC Changelog
 ==================
 #### v1.8.4
-- Added ALC262 layout-id 14 for Dell Studio One 19 1909 by Goldfish64
+- Added ALC262 layout-id 14 for Dell Studio One 19 1909 by Goldfish64 
 - Headphones Fix ALC255 layout-id 69 by juniorcaesar 
 - Added ALC289 layout-id 33 for Asus ROG Zephyrus G14 GA401IV & fix layout-id 93 in xml
 - Added Conexant CX20632 layout-id 21 for Axioo MyPC One Pro H5 by Andres ZeroCross
@@ -873,7 +873,7 @@ AppleALC Changelog
 - Added ALC256 (3246) codec support layout-id 13 by InsanelyDeepak
 - Added ALC255 layout-id 13 and 17 by InsanelyDeepak
 - Fixed an extremely rare crash on 10.12
- 
+
 #### v1.0.16
 - Fixed a rare lock acquisition issue on 10.12
 - Fixed a rare kernel panic on initialisation failure
